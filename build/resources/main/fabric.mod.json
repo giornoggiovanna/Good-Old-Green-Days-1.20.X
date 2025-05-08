@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "good-old-green-days",
+	"id": "goodoldgreendays",
 	"version": "0.1-1.20.1",
 	"name": "Good Old Green Days",
 	"description": "This is a mod about, amongst other things, drugs, cooking, and Walter Hartwell White.",
@@ -29,7 +29,7 @@
 		]
 	},
 	"mixins": [
-		"good-old-green-days.mixins.json"
+		"goodoldgreendays.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.14",
