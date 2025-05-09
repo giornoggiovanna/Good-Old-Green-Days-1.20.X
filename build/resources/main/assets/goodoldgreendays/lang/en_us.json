@@ -1,5 +1,11 @@
 {
   "item.goodoldgreendays.cannabis_plant": "Cannabis",
+  "item.goodoldgreendays.brownie": "Brownie",
+  "item.goodoldgreendays.brownie_mix": "Brownie Mix",
+  "item.goodoldgreendays.weed_brownie": "Weed Brownie",
+  "item.goodoldgreendays.weed_brownie_mix": "Weed Brownie Mix",
 
-  "itemgroup.drug_group": "Good Old Green Days Drugs"
+  "itemgroup.drug_group": "Good Old Green Days Drugs",
+
+  "block.goodoldgreendays.tread_on_me": "TREAD ON ME."
 }
