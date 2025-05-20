@@ -1,0 +1,17 @@
+{
+  "type":  "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "goodoldgreendays:cannabis_plant"
+    }
+  },
+  "result": {
+    "item": "goodoldgreendays:block_of_cannabis"
+  }
+}

@@ -13,8 +13,14 @@ import net.minecraft.util.Identifier;
 import net.treadonme.goodoldgreendays.GoodOldGreenDays;
 
 public class ModBlocks {
+
+    //Easter egg blocks
     public static final Block TREAD_ON_ME_BLOCK = registerBlock("tread_on_me",
             new Block(FabricBlockSettings.copyOf(Blocks.BEDROCK)));
+
+    //Drug blocks
+    public static final Block BLOCK_OF_CANNABIS = registerBlock("block_of_cannabis",
+            new Block(FabricBlockSettings.copyOf(Blocks.HAY_BLOCK)));
 
 
     public static Item registerBlockItem(String name, Block block){

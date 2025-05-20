@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "Building",
+  "ingredients": [
+    {
+      "item": "goodoldgreendays:block_of_cannabis"
+    }
+  ],
+  "result": {
+    "item": "goodoldgreendays:cannabis_plant",
+    "count": 9
+  }
+}

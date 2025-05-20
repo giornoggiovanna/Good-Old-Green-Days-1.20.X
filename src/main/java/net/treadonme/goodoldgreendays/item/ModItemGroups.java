@@ -8,6 +8,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.treadonme.goodoldgreendays.GoodOldGreenDays;
+import net.treadonme.goodoldgreendays.block.ModBlocks;
 
 public class ModItemGroups {
 
@@ -17,6 +18,7 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.CANNABIS_PLANT)).entries((displayContext, entries) -> {
 
                         entries.add(ModItems.CANNABIS_PLANT);
+                        entries.add(ModBlocks.BLOCK_OF_CANNABIS);
                         entries.add(ModItems.WEED_BROWNIE);
                         entries.add(ModItems.WEED_BROWNIE_MIX);
 
@@ -28,6 +30,7 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.BROWNIE)).entries((displayContext, entries) -> {
 
                         entries.add(ModItems.BROWNIE_MIX);
+                        entries.add(ModItems.SALT);
                         entries.add(ModItems.BROWNIE);
 
 

@@ -1,0 +1,29 @@
+{
+  "type":  "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "#%#",
+    "&*&",
+    "@*@"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "%": {
+      "item": "minecraft:wheat"
+    },
+    "&": {
+      "item": "minecraft:milk_bucket"
+    },
+    "*": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "@": {
+      "item": "goodoldgreendays:salt"
+    }
+  },
+  "result": {
+    "item": "goodoldgreendays:brownie_mix"
+  }
+}
